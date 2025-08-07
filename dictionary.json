@@ -563,5 +563,14 @@
 "example": "Ich sitze zwischen meinen Freunden.",
 "exampleTranslation": "I sit between my friends.",
 "category": "Prepositions"
+},
+{
+"word": "fliegen",
+"meaning": "to fly",
+"gender": "",
+"simpleForm": "fliegt",
+"example": "Die Vögel fliegen am Himmel.",
+"exampleTranslation": "The birds are flying in the sky.",
+"category": "Verbs"
 }
 ]
