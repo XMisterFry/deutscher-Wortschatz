@@ -115,6 +115,7 @@ footer a, footer button {
     left: 0;
     display: flex;
     justify-content: center;
+    font-size: 2rem;
   }
 
   #sidebar button {
