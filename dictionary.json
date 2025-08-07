@@ -1,0 +1,567 @@
+[
+  {
+    "word": "gehen",
+    "meaning": "to go",
+    "example": "Ich gehe zur Schule.",
+    "category": "Verbs",
+    "simpleForm": "geht",
+    "gender": ""
+  },
+  {
+    "word": "schön",
+    "meaning": "beautiful",
+    "example": "Das Wetter ist schön.",
+    "category": "Adjectives",
+    "simpleForm": "",
+    "gender": ""
+  },
+  {
+    "word": "gestern",
+    "meaning": "yesterday",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich war gestern zu Hause.",
+    "exampleTranslation": "I was at home yesterday.",
+    "category": "Days"
+  },
+  {
+"word": "Montag",
+"meaning": "Monday",
+"gender": "der",
+"simpleForm": "",
+"example": "Am Montag gehe ich zur Schule.",
+"exampleTranslation": "On Monday, I go to school.",
+"category": "Days"
+},
+{
+"word": "Dienstag",
+"meaning": "Tuesday",
+"gender": "der",
+"simpleForm": "",
+"example": "Dienstag ist mein Lieblingstag.",
+"exampleTranslation": "Tuesday is my favorite day.",
+"category": "Days"
+},
+{
+"word": "Mittwoch",
+"meaning": "Wednesday",
+"gender": "der",
+"simpleForm": "",
+"example": "Am Mittwoch schwimme ich.",
+"exampleTranslation": "On Wednesday, I swim.",
+"category": "Days"
+},
+{
+"word": "Donnerstag",
+"meaning": "Thursday",
+"gender": "der",
+"simpleForm": "",
+"example": "Donnerstag ist fast Wochenende.",
+"exampleTranslation": "Thursday is almost the weekend.",
+"category": "Days"
+},
+{
+"word": "Freitag",
+"meaning": "Friday",
+"gender": "der",
+"simpleForm": "",
+"example": "Am Freitag sehe ich einen Film.",
+"exampleTranslation": "On Friday, I watch a movie.",
+"category": "Days"
+},
+{
+"word": "Samstag",
+"meaning": "Saturday",
+"gender": "der",
+"simpleForm": "",
+"example": "Samstag spiele ich Fußball.",
+"exampleTranslation": "I play soccer on Saturday.",
+"category": "Days"
+},
+{
+"word": "Sonntag",
+"meaning": "Sunday",
+"gender": "der",
+"simpleForm": "",
+"example": "Sonntag ist Ruhetag.",
+"exampleTranslation": "Sunday is a rest day.",
+"category": "Days"
+},
+{
+"word": "Tisch",
+"meaning": "table",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Tisch ist groß.",
+"exampleTranslation": "The table is big.",
+"category": "Things"
+},
+{
+"word": "Stuhl",
+"meaning": "chair",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Stuhl ist bequem.",
+"exampleTranslation": "The chair is comfortable.",
+"category": "Things"
+},
+{
+"word": "Haus",
+"meaning": "house",
+"gender": "das",
+"simpleForm": "",
+"example": "Das Haus ist alt.",
+"exampleTranslation": "The house is old.",
+"category": "Things"
+},
+{
+"word": "Bus",
+"meaning": "bus",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Bus kommt pünktlich.",
+"exampleTranslation": "The bus arrives on time.",
+"category": "Things"
+},
+{
+"word": "Zug",
+"meaning": "train",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Zug ist schnell.",
+"exampleTranslation": "The train is fast.",
+"category": "Things"
+},
+{
+"word": "Bett",
+"meaning": "bed",
+"gender": "das",
+"simpleForm": "",
+"example": "Das Bett ist weich.",
+"exampleTranslation": "The bed is soft.",
+"category": "Things"
+},
+{
+"word": "Bahnhof",
+"meaning": "train station",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Bahnhof ist groß.",
+"exampleTranslation": "The train station is big.",
+"category": "Places"
+},
+{
+"word": "Küche",
+"meaning": "kitchen",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Küche ist modern.",
+"exampleTranslation": "The kitchen is modern.",
+"category": "Things"
+},
+{
+"word": "Wasser",
+"meaning": "water",
+"gender": "das",
+"simpleForm": "",
+"example": "Das Wasser ist kalt.",
+"exampleTranslation": "The water is cold.",
+"category": "Things"
+},
+{
+"word": "Lehrer",
+"meaning": "teacher",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Lehrer erklärt die Aufgabe.",
+"exampleTranslation": "The teacher explains the task.",
+"category": "Professions"
+},
+{
+"word": "Schüler",
+"meaning": "student",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Schüler lernt Deutsch.",
+"exampleTranslation": "The student is learning German.",
+"category": "Professions"
+},
+{
+"word": "Büro",
+"meaning": "office",
+"gender": "das",
+"simpleForm": "",
+"example": "Das Büro ist offen.",
+"exampleTranslation": "The office is open.",
+"category": "Places"
+},
+{
+"word": "Schule",
+"meaning": "school",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Schule beginnt um acht.",
+"exampleTranslation": "School starts at eight.",
+"category": "Places"
+},
+{
+"word": "Universität",
+"meaning": "university",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Universität ist groß.",
+"exampleTranslation": "The university is big.",
+"category": "Places"
+},
+{
+"word": "Chef",
+"meaning": "boss",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Chef ist nett.",
+"exampleTranslation": "The boss is nice.",
+"category": "Professions"
+},
+{
+"word": "Mutter",
+"meaning": "mother",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Mutter kocht Essen.",
+"exampleTranslation": "The mother is cooking food.",
+"category": "Professions"
+},
+{
+"word": "Vater",
+"meaning": "father",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Vater liest die Zeitung.",
+"exampleTranslation": "The father is reading the newspaper.",
+"category": "Professions"
+},
+{
+"word": "Schwester",
+"meaning": "sister",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Schwester spielt Klavier.",
+"exampleTranslation": "The sister plays piano.",
+"category": "Professions"
+},
+{
+"word": "Bruder",
+"meaning": "brother",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Bruder fährt Fahrrad.",
+"exampleTranslation": "The brother rides a bicycle.",
+"category": "Professions"
+},
+{
+"word": "glücklich",
+"meaning": "happy",
+"gender": "",
+"simpleForm": "",
+"example": "Ich bin heute glücklich.",
+"exampleTranslation": "I am happy today.",
+"category": "Adjectives"
+},
+{
+"word": "traurig",
+"meaning": "sad",
+"gender": "",
+"simpleForm": "",
+"example": "Sie ist traurig.",
+"exampleTranslation": "She is sad.",
+"category": "Adjectives"
+},
+{
+"word": "Hund",
+"meaning": "dog",
+"gender": "der",
+"simpleForm": "",
+"example": "Der Hund spielt im Park.",
+"exampleTranslation": "The dog plays in the park.",
+"category": "Animals"
+},
+{
+"word": "Katze",
+"meaning": "cat",
+"gender": "die",
+"simpleForm": "",
+"example": "Die Katze schläft.",
+"exampleTranslation": "The cat is sleeping.",
+"category": "Animals"
+},
+{
+"word": "schnell",
+"meaning": "fast",
+"gender": "",
+"simpleForm": "",
+"example": "Das Auto fährt schnell.",
+"exampleTranslation": "The car drives fast.",
+"category": "Adjectives"
+},
+{
+"word": "langsam",
+"meaning": "slow",
+"gender": "",
+"simpleForm": "",
+"example": "Der Zug ist langsam.",
+"exampleTranslation": "The train is slow.",
+"category": "Adjectives"
+},
+{
+"word": "hoch",
+"meaning": "high",
+"gender": "",
+"simpleForm": "",
+"example": "Der Berg ist hoch.",
+"exampleTranslation": "The mountain is high.",
+"category": "Adjectives"
+},
+{
+"word": "niedrig",
+"meaning": "low",
+"gender": "",
+"simpleForm": "",
+"example": "Das Haus ist niedrig.",
+"exampleTranslation": "The house is low.",
+"category": "Adjectives"
+},
+{
+"word": "helfen",
+"meaning": "to help",
+"gender": "",
+"simpleForm": "hilft",
+"example": "Er hilft mir.",
+"exampleTranslation": "He helps me.",
+"category": "Verbs"
+},
+{
+"word": "aus (dativ)",
+"meaning": "out of, from",
+"gender": "",
+"simpleForm": "",
+"example": "Ich komme aus dem Haus.",
+"exampleTranslation": "I come out of the house.",
+"category": "Prepositions"
+},
+{
+"word": "außer (dativ)",
+"meaning": "except for, besides",
+"gender": "",
+"simpleForm": "",
+"example": "Außer meiner Schwester sind alle da.",
+"exampleTranslation": "Except for my sister, everyone is here.",
+"category": "Prepositions"
+},
+{
+"word": "bei (dativ)",
+"meaning": "at, near, with",
+"gender": "",
+"simpleForm": "",
+"example": "Ich bin bei meinen Eltern.",
+"exampleTranslation": "I am at my parents' house.",
+"category": "Prepositions"
+},
+{
+"word": "mit (dativ)",
+"meaning": "with",
+"gender": "",
+"simpleForm": "",
+"example": "Ich gehe mit dem Hund spazieren.",
+"exampleTranslation": "I go for a walk with the dog.",
+"category": "Prepositions"
+},
+{
+"word": "nach (dativ)",
+"meaning": "after, to",
+"gender": "",
+"simpleForm": "",
+"example": "Nach der Schule gehe ich nach Hause.",
+"exampleTranslation": "After school, I go home.",
+"category": "Prepositions"
+},
+{
+"word": "seit (dativ)",
+"meaning": "since, for (time)",
+"gender": "",
+"simpleForm": "",
+"example": "Ich wohne seit einem Jahr hier.",
+"exampleTranslation": "I have lived here for a year.",
+"category": "Prepositions"
+},
+{
+"word": "von (dativ)",
+"meaning": "from, of",
+"gender": "",
+"simpleForm": "",
+"example": "Ein Geschenk von meinem Freund.",
+"exampleTranslation": "A present from my friend.",
+"category": "Prepositions"
+},
+{
+"word": "zu (dativ)",
+"meaning": "to, at",
+"gender": "",
+"simpleForm": "",
+"example": "Ich gehe zu meiner Oma.",
+"exampleTranslation": "I go to my grandma.",
+"category": "Prepositions"
+},
+{
+"word": "gegenüber (dativ)",
+"meaning": "opposite",
+"gender": "",
+"simpleForm": "",
+"example": "Die Schule ist gegenüber dem Park.",
+"exampleTranslation": "The school is opposite the park.",
+"category": "Prepositions"
+},
+{
+"word": "durch (akkusativ)",
+"meaning": "through",
+"gender": "",
+"simpleForm": "",
+"example": "Ich gehe durch den Garten.",
+"exampleTranslation": "I walk through the garden.",
+"category": "Prepositions"
+},
+{
+"word": "für (akkusativ)",
+"meaning": "for",
+"gender": "",
+"simpleForm": "",
+"example": "Das Geschenk ist für dich.",
+"exampleTranslation": "The present is for you.",
+"category": "Prepositions"
+},
+{
+"word": "gegen (akkusativ)",
+"meaning": "against",
+"gender": "",
+"simpleForm": "",
+"example": "Der Ball fliegt gegen die Wand.",
+"exampleTranslation": "The ball flies against the wall.",
+"category": "Prepositions"
+},
+{
+"word": "ohne (akkusativ)",
+"meaning": "without",
+"gender": "",
+"simpleForm": "",
+"example": "Ich kann ohne Brille nicht lesen.",
+"exampleTranslation": "I can't read without glasses.",
+"category": "Prepositions"
+},
+{
+"word": "um (akkusativ)",
+"meaning": "around, at (time)",
+"gender": "",
+"simpleForm": "",
+"example": "Das Spiel beginnt um 8 Uhr.",
+"exampleTranslation": "The game starts at 8 o'clock.",
+"category": "Prepositions"
+},
+{
+"word": "bis (akkusativ)",
+"meaning": "until, up to",
+"gender": "",
+"simpleForm": "",
+"example": "Ich bleibe bis morgen.",
+"exampleTranslation": "I stay until tomorrow.",
+"category": "Prepositions"
+},
+{
+"word": "entlang (akkusativ)",
+"meaning": "along",
+"gender": "",
+"simpleForm": "",
+"example": "Wir gehen die Straße entlang.",
+"exampleTranslation": "We walk along the street.",
+"category": "Prepositions"
+},
+{
+"word": "an (wechsel)",
+"meaning": "on, at",
+"gender": "",
+"simpleForm": "",
+"example": "Das Bild hängt an der Wand.",
+"exampleTranslation": "The picture hangs on the wall.",
+"category": "Prepositions"
+},
+{
+"word": "auf (wechsel)",
+"meaning": "on, onto",
+"gender": "",
+"simpleForm": "",
+"example": "Das Buch liegt auf dem Tisch.",
+"exampleTranslation": "The book is on the table.",
+"category": "Prepositions"
+},
+{
+"word": "hinter (wechsel)",
+"meaning": "behind",
+"gender": "",
+"simpleForm": "",
+"example": "Der Hund liegt hinter dem Sofa.",
+"exampleTranslation": "The dog is lying behind the sofa.",
+"category": "Prepositions"
+},
+{
+"word": "in (wechsel)",
+"meaning": "in, into",
+"gender": "",
+"simpleForm": "",
+"example": "Ich gehe in die Schule.",
+"exampleTranslation": "I go into the school.",
+"category": "Prepositions"
+},
+{
+"word": "neben (wechsel)",
+"meaning": "next to",
+"gender": "",
+"simpleForm": "",
+"example": "Das Auto steht neben dem Haus.",
+"exampleTranslation": "The car is next to the house.",
+"category": "Prepositions"
+},
+{
+"word": "über (wechsel)",
+"meaning": "over, above",
+"gender": "",
+"simpleForm": "",
+"example": "Die Lampe hängt über dem Tisch.",
+"exampleTranslation": "The lamp hangs above the table.",
+"category": "Prepositions"
+},
+{
+"word": "unter (wechsel)",
+"meaning": "under",
+"gender": "",
+"simpleForm": "",
+"example": "Die Katze schläft unter dem Bett.",
+"exampleTranslation": "The cat sleeps under the bed.",
+"category": "Prepositions"
+},
+{
+"word": "vor (wechsel)",
+"meaning": "in front of, before",
+"gender": "",
+"simpleForm": "",
+"example": "Das Auto steht vor dem Haus.",
+"exampleTranslation": "The car is in front of the house.",
+"category": "Prepositions"
+},
+{
+"word": "zwischen (wechsel)",
+"meaning": "between",
+"gender": "",
+"simpleForm": "",
+"example": "Ich sitze zwischen meinen Freunden.",
+"exampleTranslation": "I sit between my friends.",
+"category": "Prepositions"
+}
+]
