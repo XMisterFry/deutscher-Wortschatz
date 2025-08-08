@@ -1,5 +1,95 @@
 [
   {
+    "word": "(sich) anmelden",
+    "meaning": "to register, to sign in",
+    "gender": "",
+    "simpleForm": "meldet (sich) an",
+    "example": "Ich melde mich für den Kurs an.",
+    "exampleTranslation": "I register for the course.",
+    "category": "Verbs"
+  },
+  {
+    "word": "ab",
+    "meaning": "from, as of",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Der Kurs beginnt ab Montag.",
+    "exampleTranslation": "The course starts from Monday.",
+    "category": "Prepositions"
+  },
+  {
+    "word": "aber",
+    "meaning": "but",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich mag Tee, aber keinen Kaffee.",
+    "exampleTranslation": "I like tea, but not coffee.",
+    "category": "Prepositions"
+  },
+  {
+    "word": "abfahren",
+    "meaning": "to depart (vehicle)",
+    "gender": "",
+    "simpleForm": "fährt ab",
+    "example": "Der Zug fährt um 8 Uhr ab.",
+    "exampleTranslation": "The train departs at 8 o'clock.",
+    "category": "Verbs"
+  },
+  {
+    "word": "abgeben",
+    "meaning": "to hand in, to submit",
+    "gender": "",
+    "simpleForm": "gibt ab",
+    "example": "Ich gebe das Formular ab.",
+    "exampleTranslation": "I hand in the form.",
+    "category": "Verbs"
+  },
+  {
+    "word": "abholen",
+    "meaning": "to pick up",
+    "gender": "",
+    "simpleForm": "holt ab",
+    "example": "Ich hole dich ab.",
+    "exampleTranslation": "I am picking you up.",
+    "category": "Verbs"
+  },
+  {
+    "word": "Achtung",
+    "meaning": "attention, caution",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Achtung! Die Straße ist glatt.",
+    "exampleTranslation": "Attention! The street is slippery.",
+    "category": "Things"
+  },
+  {
+    "word": "allein",
+    "meaning": "alone",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich bin allein zu Hause.",
+    "exampleTranslation": "I am at home alone.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "also",
+    "meaning": "so, well, therefore",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Also, was machen wir jetzt?",
+    "exampleTranslation": "So, what do we do now?",
+    "category": "Prepositions"
+  },
+  {
+    "word": "alt",
+    "meaning": "old",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Mein Auto ist alt.",
+    "exampleTranslation": "My car is old.",
+    "category": "Adjectives"
+  },
+  {
     "word": "an (wechsel)",
     "meaning": "on, at",
     "gender": "",
@@ -9,6 +99,105 @@
     "category": "Prepositions"
   },
   {
+    "word": "an sein",
+    "meaning": "to be on (for electrical devices)",
+    "gender": "",
+    "simpleForm": "ist an",
+    "example": "Das Licht ist an.",
+    "exampleTranslation": "The light is on.",
+    "category": "Verbs"
+  },
+  {
+    "word": "anbieten",
+    "meaning": "to offer",
+    "gender": "",
+    "simpleForm": "bietet an",
+    "example": "Er bietet seine Hilfe an.",
+    "exampleTranslation": "He offers his help.",
+    "category": "Verbs"
+  },
+  {
+    "word": "ander",
+    "meaning": "other, another",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich nehme das andere Buch.",
+    "exampleTranslation": "I take the other book.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "anfangen",
+    "meaning": "to begin, to start",
+    "gender": "",
+    "simpleForm": "fängt an",
+    "example": "Der Kurs fängt heute an.",
+    "exampleTranslation": "The course starts today.",
+    "category": "Verbs"
+  },
+  {
+    "word": "anklicken",
+    "meaning": "to click on",
+    "gender": "",
+    "simpleForm": "klickt an",
+    "example": "Klicken Sie das Bild an.",
+    "exampleTranslation": "Click on the picture.",
+    "category": "Verbs"
+  },
+  {
+    "word": "ankommen",
+    "meaning": "to arrive",
+    "gender": "",
+    "simpleForm": "kommt an",
+    "example": "Der Bus kommt an.",
+    "exampleTranslation": "The bus arrives.",
+    "category": "Verbs"
+  },
+  {
+    "word": "ankreuzen",
+    "meaning": "to tick, to mark with a cross",
+    "gender": "",
+    "simpleForm": "kreuzt an",
+    "example": "Bitte kreuzen Sie die richtige Antwort an.",
+    "exampleTranslation": "Please tick the correct answer.",
+    "category": "Verbs"
+  },
+  {
+    "word": "anmachen",
+    "meaning": "to turn on, to switch on",
+    "gender": "",
+    "simpleForm": "macht an",
+    "example": "Er macht das Licht an.",
+    "exampleTranslation": "He turns on the light.",
+    "category": "Verbs"
+  },
+  {
+    "word": "anrufen",
+    "meaning": "to call (on the phone)",
+    "gender": "",
+    "simpleForm": "ruft an",
+    "example": "Er ruft seine Mutter an.",
+    "exampleTranslation": "He calls his mother.",
+    "category": "Verbs"
+  },
+  {
+    "word": "antworten",
+    "meaning": "to answer, to reply",
+    "gender": "",
+    "simpleForm": "antwortet",
+    "example": "Sie antwortet auf die Frage.",
+    "exampleTranslation": "She answers the question.",
+    "category": "Verbs"
+  },
+  {
+    "word": "anziehen",
+    "meaning": "to put on, to get dressed",
+    "gender": "",
+    "simpleForm": "zieht an",
+    "example": "Er zieht die Jacke an.",
+    "exampleTranslation": "He puts on the jacket.",
+    "category": "Verbs"
+  },
+  {
     "word": "arbeiten",
     "meaning": "to work",
     "gender": "",
@@ -16,6 +205,24 @@
     "example": "Sie arbeitet im Büro.",
     "exampleTranslation": "She works in the office.",
     "category": "Verbs"
+  },
+  {
+    "word": "arbeitslos",
+    "meaning": "unemployed",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Er ist arbeitslos.",
+    "exampleTranslation": "He is unemployed.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "auch",
+    "meaning": "also, too",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich komme auch.",
+    "exampleTranslation": "I am coming too.",
+    "category": "Prepositions"
   },
   {
     "word": "auf (wechsel)",
@@ -81,6 +288,15 @@
     "category": "Prepositions"
   },
   {
+    "word": "blau",
+    "meaning": "blue",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Das Auto ist blau.",
+    "exampleTranslation": "The car is blue.",
+    "category": "Adjectives"
+  },
+  {
     "word": "Bleistift",
     "meaning": "pencil",
     "gender": "der",
@@ -97,6 +313,15 @@
     "example": "Ich brauche Wasser.",
     "exampleTranslation": "I need water.",
     "category": "Verbs"
+  },
+  {
+    "word": "braun",
+    "meaning": "brown",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Der Hund ist braun.",
+    "exampleTranslation": "The dog is brown.",
+    "category": "Adjectives"
   },
   {
     "word": "Brief",
@@ -153,6 +378,258 @@
     "category": "Professions"
   },
   {
+    "word": "das Alter",
+    "meaning": "age",
+    "gender": "das",
+    "simpleForm": "",
+    "example": "Mein Alter ist zwanzig.",
+    "exampleTranslation": "My age is twenty.",
+    "category": "Things"
+  },
+  {
+    "word": "das Angebot",
+    "meaning": "offer, deal",
+    "gender": "das",
+    "simpleForm": "",
+    "example": "Das Angebot ist gut.",
+    "exampleTranslation": "The offer is good.",
+    "category": "Things"
+  },
+  {
+    "word": "das Apartment",
+    "meaning": "apartment, flat",
+    "gender": "das",
+    "simpleForm": "",
+    "example": "Das Apartment ist klein.",
+    "exampleTranslation": "The apartment is small.",
+    "category": "Places"
+  },
+  {
+    "word": "der Absender",
+    "meaning": "the sender",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Absender steht auf dem Brief.",
+    "exampleTranslation": "The sender is written on the letter.",
+    "category": "Professions"
+  },
+  {
+    "word": "der Anfang",
+    "meaning": "beginning",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Anfang ist schwer.",
+    "exampleTranslation": "The beginning is hard.",
+    "category": "Things"
+  },
+  {
+    "word": "der Anruf",
+    "meaning": "phone call",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Ich warte auf deinen Anruf.",
+    "exampleTranslation": "I'm waiting for your call.",
+    "category": "Things"
+  },
+  {
+    "word": "der Anrufbeantworter",
+    "meaning": "answering machine",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Anrufbeantworter ist voll.",
+    "exampleTranslation": "The answering machine is full.",
+    "category": "Things"
+  },
+  {
+    "word": "der Anschuluss",
+    "meaning": "connection (train, phone, etc.)",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Anschluss nach Berlin ist um zehn Uhr.",
+    "exampleTranslation": "The connection to Berlin is at ten o'clock.",
+    "category": "Things"
+  },
+  {
+    "word": "der Apfel",
+    "meaning": "apple",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Apfel ist rot.",
+    "exampleTranslation": "The apple is red.",
+    "category": "Things"
+  },
+  {
+    "word": "der Appetit",
+    "meaning": "appetite",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Ich habe Appetit auf Pizza.",
+    "exampleTranslation": "I have an appetite for pizza.",
+    "category": "Things"
+  },
+  {
+    "word": "der Arbeitsplatz",
+    "meaning": "workplace, job",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Mein Arbeitsplatz ist im Büro.",
+    "exampleTranslation": "My workplace is in the office.",
+    "category": "Places"
+  },
+  {
+    "word": "der Arm",
+    "meaning": "arm",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Mein Arm tut weh.",
+    "exampleTranslation": "My arm hurts.",
+    "category": "Things"
+  },
+  {
+    "word": "der Arzt",
+    "meaning": "doctor",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Der Arzt hilft mir.",
+    "exampleTranslation": "The doctor helps me.",
+    "category": "Professions"
+  },
+  {
+    "word": "der Norden",
+    "meaning": "north",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Hamburg liegt im Norden von Deutschland.",
+    "exampleTranslation": "Hamburg is in the north of Germany.",
+    "category": "Places"
+  },
+  {
+    "word": "der Osten",
+    "meaning": "east",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Berlin liegt im Osten.",
+    "exampleTranslation": "Berlin is in the east.",
+    "category": "Places"
+  },
+  {
+    "word": "der Süden",
+    "meaning": "south",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "München liegt im Süden.",
+    "exampleTranslation": "Munich is in the south.",
+    "category": "Places"
+  },
+  {
+    "word": "der Westen",
+    "meaning": "west",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Düsseldorf liegt im Westen.",
+    "exampleTranslation": "Düsseldorf is in the west.",
+    "category": "Places"
+  },
+  {
+    "word": "deutsch",
+    "meaning": "German",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Ich spreche deutsch.",
+    "exampleTranslation": "I speak German.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "Deutschland",
+    "meaning": "Germany",
+    "gender": "das",
+    "simpleForm": "",
+    "example": "Deutschland liegt in Europa.",
+    "exampleTranslation": "Germany is in Europe.",
+    "category": "Places"
+  },
+  {
+    "word": "die Abfahrt",
+    "meaning": "departure",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Abfahrt ist um neun Uhr.",
+    "exampleTranslation": "The departure is at nine o'clock.",
+    "category": "Things"
+  },
+  {
+    "word": "die Adresse",
+    "meaning": "the address",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Meine Adresse ist Karlstraße 5.",
+    "exampleTranslation": "My address is Karlstraße 5.",
+    "category": "Things"
+  },
+  {
+    "word": "die Ankunft",
+    "meaning": "arrival",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Ankunft ist um acht Uhr.",
+    "exampleTranslation": "Arrival is at eight o'clock.",
+    "category": "Things"
+  },
+  {
+    "word": "die Anmeldung",
+    "meaning": "registration, application",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Anmeldung ist im Büro.",
+    "exampleTranslation": "Registration is in the office.",
+    "category": "Things"
+  },
+  {
+    "word": "die Anrede",
+    "meaning": "salutation, form of address",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Anrede im Brief ist wichtig.",
+    "exampleTranslation": "The salutation in the letter is important.",
+    "category": "Things"
+  },
+  {
+    "word": "die Ansage",
+    "meaning": "announcement",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Ansage im Zug ist laut.",
+    "exampleTranslation": "The announcement in the train is loud.",
+    "category": "Things"
+  },
+  {
+    "word": "die Antwort",
+    "meaning": "answer",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Antwort ist richtig.",
+    "exampleTranslation": "The answer is correct.",
+    "category": "Things"
+  },
+  {
+    "word": "die Anzeige",
+    "meaning": "advert, advertisement",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Ich habe die Anzeige in der Zeitung gelesen.",
+    "exampleTranslation": "I read the advertisement in the newspaper.",
+    "category": "Things"
+  },
+  {
+    "word": "die Arbeit",
+    "meaning": "work, job",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Die Arbeit macht Spaß.",
+    "exampleTranslation": "The work is fun.",
+    "category": "Professions"
+  },
+  {
     "word": "Dienstag",
     "meaning": "Tuesday",
     "gender": "der",
@@ -187,6 +664,33 @@
     "example": "Wir gehen die Straße entlang.",
     "exampleTranslation": "We walk along the street.",
     "category": "Prepositions"
+  },
+  {
+    "word": "Europa",
+    "meaning": "Europe",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Europa ist ein Kontinent.",
+    "exampleTranslation": "Europe is a continent.",
+    "category": "Places"
+  },
+  {
+    "word": "Europäer",
+    "meaning": "European (person)",
+    "gender": "der",
+    "simpleForm": "",
+    "example": "Er ist Europäer.",
+    "exampleTranslation": "He is European.",
+    "category": "Professions"
+  },
+  {
+    "word": "europäisch",
+    "meaning": "European",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Das ist eine europäische Stadt.",
+    "exampleTranslation": "That is a European city.",
+    "category": "Adjectives"
   },
   {
     "word": "fahren",
@@ -314,6 +818,15 @@
     "gender": ""
   },
   {
+    "word": "gelb",
+    "meaning": "yellow",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Die Blume ist gelb.",
+    "exampleTranslation": "The flower is yellow.",
+    "category": "Adjectives"
+  },
+  {
     "word": "Gemüse",
     "meaning": "vegetables",
     "gender": "das",
@@ -338,6 +851,24 @@
     "simpleForm": "",
     "example": "Ich bin heute glücklich.",
     "exampleTranslation": "I am happy today.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "grau",
+    "meaning": "gray",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Der Himmel ist grau.",
+    "exampleTranslation": "The sky is gray.",
+    "category": "Adjectives"
+  },
+  {
+    "word": "grün",
+    "meaning": "green",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Das Gras ist grün.",
+    "exampleTranslation": "The grass is green.",
     "category": "Adjectives"
   },
   {
@@ -366,6 +897,15 @@
     "example": "Er hilft mir.",
     "exampleTranslation": "He helps me.",
     "category": "Verbs"
+  },
+  {
+    "word": "Himmelsrichtungen",
+    "meaning": "directions (points of the compass)",
+    "gender": "die",
+    "simpleForm": "",
+    "example": "Nord, Süd, Ost und West sind Himmelsrichtungen.",
+    "exampleTranslation": "North, south, east, and west are directions.",
+    "category": "Things"
   },
   {
     "word": "hinter (wechsel)",
@@ -638,6 +1178,15 @@
     "category": "Places"
   },
   {
+    "word": "rot",
+    "meaning": "red",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Der Apfel ist rot.",
+    "exampleTranslation": "The apple is red.",
+    "category": "Adjectives"
+  },
+  {
     "word": "rufen",
     "meaning": "to call, to shout",
     "gender": "",
@@ -725,6 +1274,15 @@
     "example": "Der Schüler lernt Deutsch.",
     "exampleTranslation": "The student is learning German.",
     "category": "Professions"
+  },
+  {
+    "word": "schwarz",
+    "meaning": "black",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Die Katze ist schwarz.",
+    "exampleTranslation": "The cat is black.",
+    "category": "Adjectives"
   },
   {
     "word": "Schwester",
@@ -941,6 +1499,15 @@
     "example": "Das Wasser ist kalt.",
     "exampleTranslation": "The water is cold.",
     "category": "Things"
+  },
+  {
+    "word": "weiß",
+    "meaning": "white",
+    "gender": "",
+    "simpleForm": "",
+    "example": "Das Papier ist weiß.",
+    "exampleTranslation": "The paper is white.",
+    "category": "Adjectives"
   },
   {
     "word": "zeigen",
